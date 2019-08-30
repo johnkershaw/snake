@@ -1,2 +1,5 @@
-mov r1, #0
-str r1, 256
+      mov r1, #0
+      str r1, 256
+      str r1, 287
+      str r1, 992
+      str r1, 1023
