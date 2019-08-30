@@ -1,5 +1,3 @@
-      mov r1, #0
-      str r1, 256
-      str r1, 287
-      str r1, 992
-      str r1, 1023
+      mov r1, #0x008844
+      str r1, 527 // tail
+      str r1, 528 // head
