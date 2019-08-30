@@ -1,3 +1,5 @@
+defineRegisters:
       mov r1, #0x008844
+defineSnake: 
       str r1, 527 // tail
       str r1, 528 // head
